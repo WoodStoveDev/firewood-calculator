@@ -5,8 +5,6 @@ author: WoodStoveDev
 layout: default
 ---
 
-<meta name="google-site-verification" content="yK7aaQfxuzssqqL6QHaeWHFutmPqioXkO15_gUupPbc" />
-
 # Firewood Cord Calculator (Quick Guide)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/WoodStoveDev/firewood-calculator)
