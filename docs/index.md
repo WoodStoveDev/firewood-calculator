@@ -61,7 +61,8 @@ This project is open-source and meant as a helpful companion tool. Feedback and 
 
 ## 📚 Related Resources
 
-- [Complete Firewood Calculator](https://woodstovehub.com/cord-of-wood-calculator/) - Full-featured web calculator
+- [Complete Firewood Calculator](https://woodstovehub.com/cord-of-wood-calculator/) - Full-featured online web calculator
+- [Cord of Wood Expert Guide](https://woodstovehub.com/cord-of-firewood-complete-guide/) - Comprehensive firewood measurement guide
 - [WoodStoveHub.com](https://woodstovehub.com/) - Comprehensive firewood and wood stove guides
 - [Project Repository](https://github.com/WoodStoveDev/firewood-calculator) - Source code and documentation
 
