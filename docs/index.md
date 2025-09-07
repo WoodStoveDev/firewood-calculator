@@ -3,6 +3,7 @@ title: Firewood Cord Calculator — Quick Guide
 description: A simple Python tool to calculate firewood stack volume in cubic feet and cord equivalents
 author: WoodStoveDev
 layout: default
+google-site-verification: yK7aaQfxuzssqqL6QHaeWHFutmPqioXkO15_gUupPbc
 ---
 
 # Firewood Cord Calculator (Quick Guide)
